@@ -2,7 +2,7 @@
 
 
 Hello viewer,
-I am the coder for 16688C, and this code is my project!
+I am the coder for 16688C, and this the project that took away my sanity for 4 weeks so we can get 141 programming in VEX IQ rise above
 This PID code is designed to make autnomous consistent.
 
 This code contains tuning constants like kp ki kd and the values I used for my team's robot is not the same as the one for your robot due to factors like weight and different types of drivetrain transmission. You need to tune the constants for own robot.
